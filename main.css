@@ -471,6 +471,7 @@ p {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  margin-top: 15px;
 }
 
 .productive .productive__wrapper .productive__offer .productive__offer-card .offer-card__person img {
@@ -480,7 +481,7 @@ p {
 }
 
 .productive .productive__wrapper .productive__offer .productive__offer-card .offer-card__person div {
-  margin-left: 5px;
+  margin-left: 10px;
 }
 
 .productive .productive__wrapper .productive__offer .productive__offer-card .offer-card__person div h3 {

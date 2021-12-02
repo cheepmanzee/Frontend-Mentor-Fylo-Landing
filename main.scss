@@ -300,13 +300,14 @@ p {
             .offer-card__person {
                display: flex;
                align-items: center;
+               margin-top: 15px;
                img {
                   border-radius: 50%;
                   width: 40px;
                   height: 40px;
                }
                div {
-                  margin-left: 5px;
+                  margin-left: 10px;
                   h3 {
                      font-weight: bold;
                      font-size: 0.9rem;
